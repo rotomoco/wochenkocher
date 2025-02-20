@@ -1,11 +1,15 @@
 # dependencies
 node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
 
 # expo
 .expo/
 dist/
 web-build/
-expo-env.d.ts
 
 # native
 *.orig.*
@@ -23,13 +27,17 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
-# macos
+# macOS
 .DS_Store
 *.pem
 
 # local env files
-.env*.local
 .env
+.env*.local
 
 # typescript
 *.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/
