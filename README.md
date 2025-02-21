@@ -1,4 +1,5 @@
 I have ADHS! 
+And i have two hungry kids🤣
 and I have wasted so many years thinking of new dishes every day, even though it's actually really easy. 
 But I still have to think about it every day. And that's very exhausting! 
 Life isn't easy with ADHS! 
